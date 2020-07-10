@@ -7,7 +7,7 @@ Total Interest. Here i tried to mimic the server run time by adding Gifloader fo
 ## Loan Calculator UI
 <img src="https://github.com/AkashChetia/Loan-Calculator-WithLoaderFunctionality/blob/master/img/img%201.PNG" height="400px" width="300px">
 
-## Loader Server Timeout Mimic
+## Loader
 <img src="https://github.com/AkashChetia/Loan-Calculator-WithLoaderFunctionality/blob/master/img/img%202.PNG" height="400px" width="300px">
 
 ## Final Calculation 
