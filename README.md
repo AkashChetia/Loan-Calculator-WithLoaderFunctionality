@@ -1,8 +1,8 @@
 # Loan-Calculator-WithLoaderFunctionality
 Vanilla JS Project 2
 
-Simple Project based on the functionality of Vanilla Javascript, to make calculations related to loan amount and give broader view of Monthly payment, Total Payment and 
-Total Interest. Here i tried to mimic the server run time by adding Gifloader for 2 sec to calculate the results as mentioned above.
+Simple Project based on the functionality of Vanilla Javascript, to make calculations related to loan amount and give broader view of monthly payment, total Payment and 
+total Interest. Here i tried to mimic the server run time by adding Gifloader for 2 sec to calculate the results as mentioned above.
 
 https://codepen.io/AkashChetia/pen/gOPKLjv
 
